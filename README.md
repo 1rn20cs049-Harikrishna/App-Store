@@ -1,4 +1,3 @@
-In this project, let's build an **App Store** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
 
@@ -84,29 +83,6 @@ Use these files to complete the implementation:
 - `src/components/TabItem/index.css`
 - `src/components/AppItem/index.js`
 - `src/components/AppItem/index.css`
-
-</details>
-
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- You can use the `cursor` CSS property to specify the mouse cursor to be displayed when pointing over an element
-
-  ```
-    cursor: pointer;
-  ```
-
-  <br/>
-   <img src="https://assets.ccbp.in/frontend/content/react-js/cursor-pointer-img.png" alt="cursor pointer" style="width:100px" />
-
-- You can use the below `outline` CSS property for buttons and input elements to remove the highlighting when the elements are clicked
-
-  ```
-    outline: none;
-  ```
 
 </details>
 
